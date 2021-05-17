@@ -10,4 +10,4 @@ I'm Nick Wolf, a Software Engineer, President of Ruby Australia and former Radio
 - 😻 **Ask me about:** my board game!
 - 🌱 **I'm currently learning about:** Not For Profit Governance
 - 📫 **Contact me:** via the links above
-- ⚡ **Fun fact:** I once won a trivia grand finale by myself
+- ⚡ **Fun fact:** I once won a [Trivia Grand Finale](https://nickwolf.com.au/blog/trivial-for-some) by myself
